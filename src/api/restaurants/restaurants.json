@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Hacıbaşar",
+        "location": "İstanbul",
+        "openHours": "09-17",
+        "price": "50",
+        "rating": "4.1"
+    },
+    {
+        "name": "Burger King",
+        "location": "İstanbul",
+        "openHours": "02-22",
+        "price": "25",
+        "rating": "3.4"
+    }
+]
